@@ -1,0 +1,570 @@
+{
+    "products":[
+       {
+          "id":1333529051192,
+          "title":"Rawcology Coconut Chips",
+          "handle":"rawcology-coconut-chips",
+          "body_html":"",
+          "published_at":"2018-07-23T16:18:39-04:00",
+          "created_at":"2018-07-23T16:20:39-04:00",
+          "updated_at":"2018-07-23T16:20:39-04:00",
+          "vendor":"Desk Nibbles",
+          "product_type":"Snack",
+          "tags":[
+ 
+          ],
+          "variants":[
+             {
+                "id":12235077287992,
+                "title":"Default Title",
+                "option1":"Default Title",
+                "option2":null,
+                "option3":null,
+                "sku":"",
+                "requires_shipping":true,
+                "taxable":true,
+                "featured_image":null,
+                "available":true,
+                "price":"0.00",
+                "grams":0,
+                "compare_at_price":null,
+                "position":1,
+                "product_id":1333529051192,
+                "created_at":"2018-07-23T16:20:39-04:00",
+                "updated_at":"2018-07-23T16:20:39-04:00"
+             }
+          ],
+          "images":[
+ 
+          ],
+          "options":[
+             {
+                "name":"Title",
+                "position":1,
+                "values":[
+                   "Default Title"
+                ]
+             }
+          ]
+       },
+       {
+          "id":1332687962168,
+          "title":"Oatbox Granola Bars",
+          "handle":"oatbox-granola-bars",
+          "body_html":"",
+          "published_at":"2018-07-16T13:50:57-04:00",
+          "created_at":"2018-07-16T13:54:01-04:00",
+          "updated_at":"2018-07-16T13:54:01-04:00",
+          "vendor":"Desk Nibbles",
+          "product_type":"",
+          "tags":[
+ 
+          ],
+          "variants":[
+             {
+                "id":12226089910328,
+                "title":"Default Title",
+                "option1":"Default Title",
+                "option2":null,
+                "option3":null,
+                "sku":"",
+                "requires_shipping":true,
+                "taxable":true,
+                "featured_image":null,
+                "available":true,
+                "price":"0.00",
+                "grams":0,
+                "compare_at_price":null,
+                "position":1,
+                "product_id":1332687962168,
+                "created_at":"2018-07-16T13:54:01-04:00",
+                "updated_at":"2018-07-16T13:54:01-04:00"
+             }
+          ],
+          "images":[
+ 
+          ],
+          "options":[
+             {
+                "name":"Title",
+                "position":1,
+                "values":[
+                   "Default Title"
+                ]
+             }
+          ]
+       },
+       {
+          "id":1332687601720,
+          "title":"Oatbox Cereal Bars",
+          "handle":"oatbox-cereal-bars",
+          "body_html":"Skipped breakfast? These cereal bars are the perfect solution.",
+          "published_at":"2018-07-16T13:49:02-04:00",
+          "created_at":"2018-07-16T13:51:34-04:00",
+          "updated_at":"2018-07-16T14:05:27-04:00",
+          "vendor":"Desk Nibbles",
+          "product_type":"Snack",
+          "tags":[
+             "July"
+          ],
+          "variants":[
+             {
+                "id":12226088927288,
+                "title":"Default Title",
+                "option1":"Default Title",
+                "option2":null,
+                "option3":null,
+                "sku":"",
+                "requires_shipping":true,
+                "taxable":true,
+                "featured_image":null,
+                "available":true,
+                "price":"0.00",
+                "grams":0,
+                "compare_at_price":null,
+                "position":1,
+                "product_id":1332687601720,
+                "created_at":"2018-07-16T13:51:34-04:00",
+                "updated_at":"2018-07-16T13:51:34-04:00"
+             }
+          ],
+          "images":[
+             {
+                "id":3618188296248,
+                "created_at":"2018-07-16T13:51:48-04:00",
+                "position":1,
+                "updated_at":"2018-07-16T13:51:48-04:00",
+                "product_id":1332687601720,
+                "variant_ids":[
+ 
+                ],
+                "src":"https://cdn.shopify.com/s/files/1/1301/1263/products/barres-02.jpg?v=1531763508",
+                "width":750,
+                "height":500
+             }
+          ],
+          "options":[
+             {
+                "name":"Title",
+                "position":1,
+                "values":[
+                   "Default Title"
+                ]
+             }
+          ]
+       },
+       {
+          "id":1332450525240,
+          "title":"Ginger Ale",
+          "handle":"ginger-ale",
+          "body_html":"",
+          "published_at":"2018-07-12T16:24:37-04:00",
+          "created_at":"2018-07-12T16:25:44-04:00",
+          "updated_at":"2018-07-12T16:25:47-04:00",
+          "vendor":"Desk Nibbles",
+          "product_type":"",
+          "tags":[
+ 
+          ],
+          "variants":[
+             {
+                "id":12225171816504,
+                "title":"Default Title",
+                "option1":"Default Title",
+                "option2":null,
+                "option3":null,
+                "sku":"",
+                "requires_shipping":true,
+                "taxable":true,
+                "featured_image":null,
+                "available":true,
+                "price":"0.45",
+                "grams":0,
+                "compare_at_price":null,
+                "position":1,
+                "product_id":1332450525240,
+                "created_at":"2018-07-12T16:25:44-04:00",
+                "updated_at":"2018-07-12T20:01:41-04:00"
+             }
+          ],
+          "images":[
+             {
+                "id":3617187070008,
+                "created_at":"2018-07-12T16:25:47-04:00",
+                "position":1,
+                "updated_at":"2018-07-12T16:25:47-04:00",
+                "product_id":1332450525240,
+                "variant_ids":[
+ 
+                ],
+                "src":"https://cdn.shopify.com/s/files/1/1301/1263/products/Ginger_Ale.jpg?v=1531427147",
+                "width":450,
+                "height":450
+             }
+          ],
+          "options":[
+             {
+                "name":"Title",
+                "position":1,
+                "values":[
+                   "Default Title"
+                ]
+             }
+          ]
+       },
+       {
+          "id":1332447641656,
+          "title":"Sprite",
+          "handle":"sprite",
+          "body_html":"",
+          "published_at":"2018-07-12T16:19:03-04:00",
+          "created_at":"2018-07-12T16:20:50-04:00",
+          "updated_at":"2018-07-12T16:20:53-04:00",
+          "vendor":"Desk Nibbles",
+          "product_type":"",
+          "tags":[
+ 
+          ],
+          "variants":[
+             {
+                "id":12225162248248,
+                "title":"Default Title",
+                "option1":"Default Title",
+                "option2":null,
+                "option3":null,
+                "sku":"",
+                "requires_shipping":true,
+                "taxable":true,
+                "featured_image":null,
+                "available":true,
+                "price":"0.45",
+                "grams":0,
+                "compare_at_price":null,
+                "position":1,
+                "product_id":1332447641656,
+                "created_at":"2018-07-12T16:20:50-04:00",
+                "updated_at":"2018-07-12T20:01:41-04:00"
+             }
+          ],
+          "images":[
+             {
+                "id":3617177141304,
+                "created_at":"2018-07-12T16:20:53-04:00",
+                "position":1,
+                "updated_at":"2018-07-12T16:20:53-04:00",
+                "product_id":1332447641656,
+                "variant_ids":[
+ 
+                ],
+                "src":"https://cdn.shopify.com/s/files/1/1301/1263/products/Sprite.jpg?v=1531426853",
+                "width":168,
+                "height":300
+             }
+          ],
+          "options":[
+             {
+                "name":"Title",
+                "position":1,
+                "values":[
+                   "Default Title"
+                ]
+             }
+          ]
+       },
+       {
+          "id":1330957287480,
+          "title":"Hungry Buddha Coconut Chips",
+          "handle":"hungry-buddha-coconut-chips",
+          "body_html":"",
+          "published_at":"2018-07-03T09:38:14-04:00",
+          "created_at":"2018-07-03T09:40:49-04:00",
+          "updated_at":"2018-07-03T09:43:06-04:00",
+          "vendor":"Desk Nibbles",
+          "product_type":"",
+          "tags":[
+ 
+          ],
+          "variants":[
+             {
+                "id":12221040001080,
+                "title":"Default Title",
+                "option1":"Default Title",
+                "option2":null,
+                "option3":null,
+                "sku":"",
+                "requires_shipping":true,
+                "taxable":true,
+                "featured_image":null,
+                "available":true,
+                "price":"1.68",
+                "grams":40,
+                "compare_at_price":null,
+                "position":1,
+                "product_id":1330957287480,
+                "created_at":"2018-07-03T09:40:49-04:00",
+                "updated_at":"2018-07-03T09:40:49-04:00"
+             }
+          ],
+          "images":[
+             {
+                "id":3612178579512,
+                "created_at":"2018-07-03T09:43:06-04:00",
+                "position":1,
+                "updated_at":"2018-07-03T09:43:06-04:00",
+                "product_id":1330957287480,
+                "variant_ids":[
+ 
+                ],
+                "src":"https://cdn.shopify.com/s/files/1/1301/1263/products/20170106_130901_grande_22be1b85-8117-401d-9e8a-a113de0779d4.jpg?v=1530625386",
+                "width":556,
+                "height":600
+             }
+          ],
+          "options":[
+             {
+                "name":"Title",
+                "position":1,
+                "values":[
+                   "Default Title"
+                ]
+             }
+          ]
+       },
+       {
+          "id":1330407702584,
+          "title":"La Petite Bretonne Cookies",
+          "handle":"la-petite-bretonne-cookies",
+          "body_html":"",
+          "published_at":"2018-06-29T14:08:09-04:00",
+          "created_at":"2018-06-29T14:09:23-04:00",
+          "updated_at":"2018-06-29T14:27:30-04:00",
+          "vendor":"Desk Nibbles",
+          "product_type":"",
+          "tags":[
+ 
+          ],
+          "variants":[
+             {
+                "id":12220255633464,
+                "title":"Default Title",
+                "option1":"Default Title",
+                "option2":null,
+                "option3":null,
+                "sku":"",
+                "requires_shipping":true,
+                "taxable":true,
+                "featured_image":null,
+                "available":true,
+                "price":"0.00",
+                "grams":0,
+                "compare_at_price":null,
+                "position":1,
+                "product_id":1330407702584,
+                "created_at":"2018-06-29T14:09:23-04:00",
+                "updated_at":"2018-07-17T03:59:21-04:00"
+             }
+          ],
+          "images":[
+             {
+                "id":3611493564472,
+                "created_at":"2018-06-29T14:09:25-04:00",
+                "position":1,
+                "updated_at":"2018-06-29T14:09:25-04:00",
+                "product_id":1330407702584,
+                "variant_ids":[
+ 
+                ],
+                "src":"https://cdn.shopify.com/s/files/1/1301/1263/products/imageService_741c1df6-8b2b-491e-a027-92191b2c3723.jpg?v=1530295765",
+                "width":350,
+                "height":350
+             }
+          ],
+          "options":[
+             {
+                "name":"Title",
+                "position":1,
+                "values":[
+                   "Default Title"
+                ]
+             }
+          ]
+       },
+       {
+          "id":1330405670968,
+          "title":"Nature's Path Sunrise Breakfast Biscuits",
+          "handle":"natures-path-sunrise-breakfast-biscuits",
+          "body_html":"",
+          "published_at":"2018-06-29T13:59:14-04:00",
+          "created_at":"2018-06-29T14:00:37-04:00",
+          "updated_at":"2018-07-12T20:02:21-04:00",
+          "vendor":"Desk Nibbles",
+          "product_type":"",
+          "tags":[
+ 
+          ],
+          "variants":[
+             {
+                "id":12220251242552,
+                "title":"Default Title",
+                "option1":"Default Title",
+                "option2":null,
+                "option3":null,
+                "sku":"",
+                "requires_shipping":true,
+                "taxable":true,
+                "featured_image":null,
+                "available":true,
+                "price":"0.66",
+                "grams":25,
+                "compare_at_price":null,
+                "position":1,
+                "product_id":1330405670968,
+                "created_at":"2018-06-29T14:00:37-04:00",
+                "updated_at":"2018-07-12T20:02:21-04:00"
+             }
+          ],
+          "images":[
+             {
+                "id":3611491500088,
+                "created_at":"2018-06-29T14:00:40-04:00",
+                "position":1,
+                "updated_at":"2018-06-29T14:00:40-04:00",
+                "product_id":1330405670968,
+                "variant_ids":[
+ 
+                ],
+                "src":"https://cdn.shopify.com/s/files/1/1301/1263/products/Natures-Path-Sunrise-Blueberry-Chia-Breakfast-Biscuits-US.png?v=1530295240",
+                "width":720,
+                "height":960
+             }
+          ],
+          "options":[
+             {
+                "name":"Title",
+                "position":1,
+                "values":[
+                   "Default Title"
+                ]
+             }
+          ]
+       },
+       {
+          "id":1330405638200,
+          "title":"Rip Van Wafels",
+          "handle":"rip-van-wafels",
+          "body_html":"\u003cmeta charset=\"utf-8\"\u003eEnjoy this seriously tasty stroopwafel anytime you are craving sweets!",
+          "published_at":"2018-06-29T13:58:19-04:00",
+          "created_at":"2018-06-29T13:58:47-04:00",
+          "updated_at":"2018-07-24T10:01:56-04:00",
+          "vendor":"Desk Nibbles",
+          "product_type":"Snack",
+          "tags":[
+             "July"
+          ],
+          "variants":[
+             {
+                "id":12220251209784,
+                "title":"Default Title",
+                "option1":"Default Title",
+                "option2":null,
+                "option3":null,
+                "sku":"",
+                "requires_shipping":true,
+                "taxable":true,
+                "featured_image":null,
+                "available":true,
+                "price":"0.00",
+                "grams":0,
+                "compare_at_price":null,
+                "position":1,
+                "product_id":1330405638200,
+                "created_at":"2018-06-29T13:58:47-04:00",
+                "updated_at":"2018-07-12T20:02:21-04:00"
+             }
+          ],
+          "images":[
+             {
+                "id":3618190688312,
+                "created_at":"2018-07-16T14:11:37-04:00",
+                "position":1,
+                "updated_at":"2018-07-16T14:11:37-04:00",
+                "product_id":1330405638200,
+                "variant_ids":[
+ 
+                ],
+                "src":"https://cdn.shopify.com/s/files/1/1301/1263/products/Variety_Pack_Image2_grande_85f7ddf2-955f-49cf-900d-ffd65a0204c8.png?v=1531764697",
+                "width":511,
+                "height":600
+             }
+          ],
+          "options":[
+             {
+                "name":"Title",
+                "position":1,
+                "values":[
+                   "Default Title"
+                ]
+             }
+          ]
+       },
+       {
+          "id":1329943576632,
+          "title":"Oat Box Breakfast Bar",
+          "handle":"oat-box-breakfast-bar",
+          "body_html":"",
+          "published_at":"2018-06-27T14:07:12-04:00",
+          "created_at":"2018-06-27T14:12:20-04:00",
+          "updated_at":"2018-06-27T14:12:39-04:00",
+          "vendor":"Desk Nibbles",
+          "product_type":"Snack",
+          "tags":[
+ 
+          ],
+          "variants":[
+             {
+                "id":12219427848248,
+                "title":"Default Title",
+                "option1":"Default Title",
+                "option2":null,
+                "option3":null,
+                "sku":"",
+                "requires_shipping":true,
+                "taxable":true,
+                "featured_image":null,
+                "available":true,
+                "price":"1.25",
+                "grams":0,
+                "compare_at_price":null,
+                "position":1,
+                "product_id":1329943576632,
+                "created_at":"2018-06-27T14:12:20-04:00",
+                "updated_at":"2018-06-27T14:12:20-04:00"
+             }
+          ],
+          "images":[
+             {
+                "id":3610511376440,
+                "created_at":"2018-06-27T14:12:23-04:00",
+                "position":1,
+                "updated_at":"2018-06-27T14:12:23-04:00",
+                "product_id":1329943576632,
+                "variant_ids":[
+ 
+                ],
+                "src":"https://cdn.shopify.com/s/files/1/1301/1263/products/oat-box5b.jpg?v=1530123143",
+                "width":800,
+                "height":469
+             }
+          ],
+          "options":[
+             {
+                "name":"Title",
+                "position":1,
+                "values":[
+                   "Default Title"
+                ]
+             }
+          ]
+       }
+    ]
+ }

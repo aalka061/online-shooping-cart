@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color:lightblue
+}
+
+.product_listing {
+  display: flex;
+  flex:1;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.product_listing .product-item {
+  padding: 100 px 100 px;
+  width: 400px
+}
